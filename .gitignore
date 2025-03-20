@@ -1,0 +1,9 @@
+# files
+*.dll
+*.o
+godot_extensions/*.dblite
+
+# directorys
+.vscode/*
+godot_extensions/project/*
+godot_extensions/src/gen/*
